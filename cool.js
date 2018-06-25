@@ -2,4 +2,4 @@ missywoulddo = () => {
     return 'cool stuff'
 }
 
-//but that's oame
+//but that's lame
